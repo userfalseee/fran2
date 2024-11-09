@@ -110,7 +110,7 @@ body, html {
     background: linear-gradient(135deg, #ff5c8e, #ff6f61); /* Fondo con gradiente */
     border-radius: 3em; /* Bordes redondeados */
     padding: 1em 1em; /* Espaciado interno */
-    opacity: 1; /* Oculta el párrafo */
+    opacity: 0; /* Oculta el párrafo */
     transform: scale(0.9) translateY(0.8em); /* Pequeño desplazamiento y escala inicial */
     transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out; /* Transiciones suaves */
 }
@@ -148,8 +148,8 @@ body, html {
 
 #sonrei{
     font-size: 0.8em;
-    bottom: 4.4em;
-    right: 2.8em;
+    bottom: 1.4em;
+    right: 12.8em;
     
 }
 
@@ -176,8 +176,8 @@ body, html {
 }
 
 #ingresante{
-    right: 5.5em;
-    bottom: 3.7em;
+    right: 8.5em;
+    bottom: 1em;
     z-index: 40;
     position: absolute;
     font-size: 0.7em;
@@ -277,6 +277,62 @@ body, html {
 #explicarte{
     right: 7.5em;
     bottom: 9em;
+    z-index: 40;
+    position: absolute;
+    font-size: 0.7em;
+}
+
+#sola{
+    right: 1.5em;
+    bottom: 27em;
+    z-index: 40;
+    position: absolute;
+    font-size: 0.7em;
+}
+
+#trap{
+    right: 24em;
+    bottom: 27em;
+    z-index: 40;
+    position: absolute;
+    font-size: 0.7em;
+}
+
+#verano{
+    right: 18em;
+    bottom: 30em;
+    z-index: 40;
+    position: absolute;
+    font-size: 0.7em;
+}
+
+
+#linda{
+    right: 18em;
+    bottom: 23em;
+    z-index: 40;
+    position: absolute;
+    font-size: 0.7em;
+}
+
+#dedico{
+    right: 18em;
+    bottom: 34em;
+    z-index: 40;
+    position: absolute;
+    font-size: 0.7em;
+}
+
+#pollito{
+    left: 1em;
+    bottom: 38em;
+    z-index: 40;
+    position: absolute;
+    font-size: 0.7em;
+}
+#aula{
+    right: 3em;
+    bottom: 17em;
     z-index: 40;
     position: absolute;
     font-size: 0.7em;

@@ -227,6 +227,11 @@ const imagenes = [
     'images/img16.jpeg',
     'images/img17.jpeg',
     'images/img18.jpeg',
+    'images/img19.jpeg',
+    'images/img20.jpeg',
+    'images/img21.jpeg',
+    'images/img22.jpeg',
+    'images/img23.jpeg',
 ];
 
 const imagenes__gatos = [
@@ -257,9 +262,8 @@ setInterval(cambiarImagen__gatos, 4000);
 
 const audio = document.getElementById('audioFondo');
 
-    // Agregamos un listener que detecte cuando se hace clic en cualquier parte de la página
     document.addEventListener('click', function() {
-        audio.play(); // Reproduce el audio
+        audio.play(); 
     });
 
     
