@@ -102,7 +102,7 @@ body, html {
 .phrases{
     color: #ffffff;
     font-size: 1em;
-    z-index: 40;
+    z-index: 90;
     position: absolute;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fuentes modernas */
     line-height: 1.6; /* Mayor espaciado entre líneas */
